@@ -7,6 +7,7 @@ This is a sample demo README.md file for my **GitHub** repo.
 
 ### Week 2
 insert images here
+![alt text] 
 
 ### Requirements
 1. The system shall track user activity
