@@ -9,7 +9,7 @@ This is a sample demo README.md file for my **GitHub** repo.
 insert images here
 ![alt text][logo]
 
-[logo]: 
+[logo]: https://github.com/K-D-Suarez/MyHealthApp/blob/main/Untitled%20Diagram.drawio.png
 
 ### Requirements
 1. The system shall track user activity
