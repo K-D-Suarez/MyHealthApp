@@ -3,7 +3,7 @@
 This is an application to calculate fitness routines.
 
 ### Purpose
-This is a sample demo READMA.md file for my **GitHub** repo.
+This is a sample demo README.md file for my **GitHub** repo.
 
 ### Requirements
 1. The system shall track user activity
