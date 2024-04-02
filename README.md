@@ -2,10 +2,10 @@
 ## Description
 This is an application to calculate fitness routines.
 
-### Purpose
+### Week 1
 This is a sample demo README.md file for my **GitHub** repo.
 
-### CRC Cards
+### Week 2
 insert images here
 
 ### Requirements
