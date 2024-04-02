@@ -7,6 +7,7 @@ This is a sample demo README.md file for my **GitHub** repo.
 
 ### Week 2
 insert images here
+
 ![alt text][logo]
 
 [logo]: https://github.com/K-D-Suarez/MyHealthApp/blob/main/Untitled%20Diagram.drawio.png
