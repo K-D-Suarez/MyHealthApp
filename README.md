@@ -7,7 +7,7 @@ This is a sample demo README.md file for my **GitHub** repo.
 
 ### Week 2
 insert images here
-![alt text] Untitled Diagram.drawio.png
+![alt text](https://github.com/K-D-Suarez/ "Logo Title Text 1")
 
 ### Requirements
 1. The system shall track user activity
