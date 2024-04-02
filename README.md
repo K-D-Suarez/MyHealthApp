@@ -1,2 +1,2 @@
 # MyHealthApp
-Application to calculate fitness routines.
+This is an application to calculate fitness routines.
