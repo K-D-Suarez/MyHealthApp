@@ -10,7 +10,7 @@ insert images here
 
 ![alt text][logo]
 
- https://github.com/K-D-Suarez/MyHealthApp/blob/main/Images/Untitled%20Diagram.drawio.png
+[ClassDiagram]: https://github.com/K-D-Suarez/MyHealthApp/blob/main/Images/Untitled%20Diagram.drawio.png
 
 ### Requirements
 1. The system shall track user activity
