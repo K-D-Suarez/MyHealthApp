@@ -17,7 +17,13 @@ Through the GUI interface, users can choose from a variety of menu items that sp
 * A comprehensive and highly organized listing of targeted exercises
 * Useful tips for developing a fitness routine and optimizing one's performance
 
+![alt text][logo]
 
+[logo]: https://github.com/K-D-Suarez/MyHealthApp/blob/main/Images/Untitled%20Diagram.drawio.png
+
+![alt text][logo]
+
+[logo]: https://github.com/K-D-Suarez/MyHealthApp/blob/main/Images/Untitled%20Diagram.drawio.png
 
 ### Week 1
 Week one's project development activities consisted of mostly planning-stage activites. In addition to fleshing out the concept behind the proposed fitness GUI, I developed CRC cards and started working on UML. I also developed a project timeline and set weeekly goals. 
