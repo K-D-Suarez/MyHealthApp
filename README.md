@@ -19,7 +19,7 @@ Through the GUI interface, users can choose from a variety of menu items that sp
 
 ![alt text][mockup]
 
-[mockup]: https://github.com/K-D-Suarez/MyHealthApp/blob/main/Images/CISC%20191_%20Assignments%20%26%20Exercises%20Mockup.pdf
+[mockup]: https://github.com/K-D-Suarez/MyHealthApp/blob/main/Images/IMG_1884.jpeg
 
 ![alt text][logo]
 
