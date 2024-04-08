@@ -21,9 +21,9 @@ Through the GUI interface, users can choose from a variety of menu items that sp
 
 [mockup]: https://github.com/K-D-Suarez/MyHealthApp/blob/main/Images/IMG_1884.jpeg
 
-![alt text][logo]
+![alt text][classdiagram]
 
-[logo]: https://github.com/K-D-Suarez/MyHealthApp/blob/main/Images/Untitled%20Diagram.drawio.png
+[classdiagram]: https://github.com/K-D-Suarez/MyHealthApp/blob/main/Images/IMG_1883.jpeg
 
 ### Week 1
 Week one's project development activities consisted of mostly planning-stage activites. In addition to fleshing out the concept behind the proposed fitness GUI, I developed CRC cards and started working on UML. I also developed a project timeline and set weeekly goals. 
