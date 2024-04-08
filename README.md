@@ -17,9 +17,9 @@ Through the GUI interface, users can choose from a variety of menu items that sp
 * A comprehensive and highly organized listing of targeted exercises
 * Useful tips for developing a fitness routine and optimizing one's performance
 
-![alt text][logo]
+![alt text][mockup]
 
-[logo]: https://github.com/K-D-Suarez/MyHealthApp/blob/main/Images/CISC%20191_%20Assignments%20%26%20Exercises%20Mockup.pdf
+[mockup]: https://github.com/K-D-Suarez/MyHealthApp/blob/main/Images/CISC%20191_%20Assignments%20%26%20Exercises%20Mockup.pdf
 
 ![alt text][logo]
 
