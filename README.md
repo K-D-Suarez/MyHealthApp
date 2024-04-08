@@ -12,7 +12,7 @@ Through the GUI interface, users can choose from a variety of menu items that sp
 * Create a comprehensive list of exercises and exercise guidelines
 * Provide and interesting and enriching experience to users who seek to expand their fitness journey
 
-## Features
+## Features:
 * GUI interface for easily accessing fitness routine info
 * A comprehensive and highly organized listing of targeted exercises
 * Useful tips for developing a fitness routine and optimizing one's performance
