@@ -29,11 +29,14 @@ insert images here
 
 [logo]: https://github.com/K-D-Suarez/MyHealthApp/blob/main/Images/Untitled%20Diagram.drawio.png
 
-### Requirements
-1. The system shall track user activity
-2. The system shall have 24/7 availability
-3. The system shall be accessible to any modern web browser
+### Week 3
 
-* shovels
-* rakes
-* hammers
+### Week 4
+
+### Week 5
+
+### Week 6
+
+### Week 7
+
+### Week 8
