@@ -4,11 +4,12 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-class TestStartingPage {
+public class TestStartingPage {
 
 	@Test
-	void test() {
-		fail("Not yet implemented");
+	 public void test() {
+		JunitTesting test = new JunitTesting(); 
+		assertEquals();
 	}
 
 }
