@@ -29,7 +29,7 @@ MyHealthApp Wireframe of the app's front page and custom fitness routing results
 
 ![alt text][FrontPageWireframe]
 
-[FrontPageWireframe]: https://github.com/K-D-Suarez/MyHealthApp/blob/main/Images/MyHealthApp-Front-Page---Wireframe-cc-Premium17137346762951713734676.pdf
+[FrontPageWireframe]: 
 
 ![alt text][ResultsPageWireframe]
 
