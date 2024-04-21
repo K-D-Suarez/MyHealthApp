@@ -25,3 +25,7 @@ Through the GUI interface, users can choose from a variety of menu items that sp
 
 [classdiagram]: https://github.com/K-D-Suarez/MyHealthApp/blob/main/Images/IMG_1883.jpeg
 
+MyHealthApp Wireframe of the app's front page and custom fitness routing results page:
+
+
+
