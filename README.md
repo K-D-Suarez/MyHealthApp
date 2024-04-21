@@ -27,5 +27,11 @@ Through the GUI interface, users can choose from a variety of menu items that sp
 
 MyHealthApp Wireframe of the app's front page and custom fitness routing results page:
 
+![alt text][FrontPageWireframe]
 
+[FrontPageWireframe]: https://github.com/K-D-Suarez/MyHealthApp/blob/main/Images/MyHealthApp-Front-Page---Wireframe-cc-Premium17137346762951713734676.pdf
+
+![alt text][ResultsPageWireframe]
+
+[ResultsPageWireFrame]:  
 
