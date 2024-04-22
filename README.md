@@ -25,19 +25,13 @@ Through the GUI interface, users can choose from a variety of menu items that sp
 
 [classdiagram]: https://github.com/K-D-Suarez/MyHealthApp/blob/main/Images/IMG_1883.jpeg
 
-### Week 1
-Week one's project development activities consisted of mostly planning-stage activites. In addition to fleshing out the concept behind the proposed fitness GUI, I developed CRC cards and started working on UML. I also developed a project timeline and set weeekly goals. 
+MyHealthApp Wireframe of the app's front page and custom fitness routing results page:
 
-### Week 2
+![alt text][FrontPageWireframe]
 
-### Week 3
+[FrontPageWireframe]: https://github.com/K-D-Suarez/MyHealthApp/blob/main/Images/Homepage.png
 
-### Week 4
+![alt text][ResultsPageWireframe]
 
-### Week 5
+[ResultsPageWireFrame]:  https://github.com/K-D-Suarez/MyHealthApp/blob/main/Images/Homepage-2.png
 
-### Week 6
-
-### Week 7
-
-### Week 8
