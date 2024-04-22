@@ -28,7 +28,7 @@ public class ExerciseGoalsPanel extends JPanel
 		increaseStrength = new JCheckBox("Increase overall strength");
 		
 		// Add the border around the panel
-		setBorder(BorderFactory.createTitledBorder("What are your exercise goals?");
+		setBorder(BorderFactory.createTitledBorder("What are your exercise goals?"));
 		
 		// Add the check boxes to the panel
 		add(buildMuscle);
