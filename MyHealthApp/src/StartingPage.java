@@ -60,7 +60,7 @@ public class StartingPage extends JFrame
 		exitButton = new JButton("Exit");
 		
 		// Register the action listener
-		exitButton.addActionListener(new ExitButtonListener);
+		exitButton.addActionListener(new ExitButtonListener());
 		
 		// Add the button to the button panel
 		buttonPanel.add(exitButton);

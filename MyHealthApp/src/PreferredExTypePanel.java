@@ -9,6 +9,7 @@ public class PreferredExTypePanel extends JPanel
 {
 	private JRadioButton bodyWeightExercises;
 	private JRadioButton bodyWeightAndEquipmentEx;
+	private ButtonGroup bg;
 	
 	/**
 	 * Constructor
