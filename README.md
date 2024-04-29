@@ -35,7 +35,7 @@ MyHealthApp Wireframe of the app's front page and custom fitness routing results
 
 [ResultsPageWireFrame]:  https://github.com/K-D-Suarez/MyHealthApp/blob/main/Images/Homepage-2.png
 
-###Requirements Traceability Matrix
+### Requirements Traceability Matrix
 
 | Test ID | Description | Source File(s) | Test Status |
 | --- | --- | --- | --- |
