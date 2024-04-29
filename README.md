@@ -38,6 +38,7 @@ MyHealthApp Wireframe of the app's front page and custom fitness routing results
 Requirements Traceability Matrix
 
 | Test ID | Description | Source File(s) | Test Status |
+| --- | --- | --- | --- |
 | 1 | Greeting panel properly displays on GUI | GreetingPanel.java | Pass |
 | 2 | Exercise goals panel properly displays on GUI | ExerciseGoalsPanel.java | Pass |
 | 3 | Preferred exercise type panel properly displays on GUI | PreferredExTypePanel.java | Pass |
