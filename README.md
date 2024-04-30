@@ -35,3 +35,15 @@ MyHealthApp Wireframe of the app's front page and custom fitness routing results
 
 [ResultsPageWireFrame]:  https://github.com/K-D-Suarez/MyHealthApp/blob/main/Images/Homepage-2.png
 
+### Requirements Traceability Matrix
+
+| Test ID | Description | Source File(s) | Test Status |
+| --- | --- | --- | --- |
+| 1 | Greeting panel properly displays on GUI | GreetingPanel.java | Pass |
+| 2 | Exercise goals panel properly displays on GUI | ExerciseGoalsPanel.java | Pass |
+| 3 | Preferred exercise type panel properly displays on GUI | PreferredExTypePanel.java | Pass |
+| 4 | Images display properly on GUI | TBD | TBD |
+| 5 | Text results display properly | TBD | TBD |
+| 6 | Text results scroll in text window | TBD | TBD |
+
+
