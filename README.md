@@ -1,6 +1,6 @@
 # MyHealthApp
 
-[Introduction] (Link)
+[Introduction] (https://github.com/K-D-Suarez/MyHealthApp/blob/main/README.md#introduction)
 [Objectives] (link)
 [Features] (Link)
 [Requirements Traceability Matrix] (link)
