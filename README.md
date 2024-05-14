@@ -4,7 +4,7 @@
 * [Introduction] (https://github.com/K-D-Suarez/MyHealthApp/blob/main/README.md#introduction)
 * [Objectives] (https://github.com/K-D-Suarez/MyHealthApp/blob/main/README.md#objectives)
 * [Features] (https://github.com/K-D-Suarez/MyHealthApp/blob/main/README.md#features)
-* [Requirements Traceability Matrix] ()
+* [Requirements Traceability Matrix] (https://github.com/K-D-Suarez/MyHealthApp/blob/main/README.md#requirements-traceability-matrix)
 
 ## Introduction
 This is an application to calculate fitness routines.
