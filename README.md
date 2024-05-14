@@ -3,8 +3,8 @@
 ## Table of Contents ##
 * [Introduction] (https://github.com/K-D-Suarez/MyHealthApp/blob/main/README.md#introduction)
 * [Objectives] (https://github.com/K-D-Suarez/MyHealthApp/blob/main/README.md#objectives)
-* [Features] ()
-* [Requirements Traceability Matrix] (link)
+* [Features] (https://github.com/K-D-Suarez/MyHealthApp/blob/main/README.md#features)
+* [Requirements Traceability Matrix] ()
 
 ## Introduction
 This is an application to calculate fitness routines.
