@@ -7,10 +7,9 @@ import java.awt.*;
  */
 public class ExerciseGoalsPanel extends JPanel
 {
-	private JCheckBox buildMuscle;
-	private JCheckBox cardiovascularHealth;
-	private JCheckBox loseWeight;
-	private JCheckBox increaseStrength;
+	private JCheckBox cardio;
+	private JCheckBox strength;
+	private JCheckBox stretching;
 	
 	/**
 	 * Constructor
@@ -22,19 +21,19 @@ public class ExerciseGoalsPanel extends JPanel
 		setLayout(new GridLayout(4, 1));
 		
 		// Create the check boxes
-		buildMuscle = new JCheckBox("Build muscle");
-		cardiovascularHealth = new JCheckBox("Improve cardiovascular health");
-		loseWeight = new JCheckBox("Lose weight");
-		increaseStrength = new JCheckBox("Increase overall strength");
+		cardio = new JCheckBox("Cardio");
+		strength = new JCheckBox("Strength");
+		stretching = new JCheckBox("Stretching");
+		
 		
 		// Add the border around the panel
-		setBorder(BorderFactory.createTitledBorder("What are your exercise goals?"));
+		setBorder(BorderFactory.createTitledBorder("What type of exercise?"));
 		
 		// Add the check boxes to the panel
-		add(buildMuscle);
-		add(cardiovascularHealth);
-		add(loseWeight);
-		add(increaseStrength);
+		add(cardio);
+		add(strength);
+		add(stretching);
+		
 	}
 	
 }

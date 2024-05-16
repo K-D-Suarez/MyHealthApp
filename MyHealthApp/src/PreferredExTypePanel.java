@@ -7,8 +7,12 @@ import java.awt.*;
  */
 public class PreferredExTypePanel extends JPanel
 {
-	private JRadioButton bodyWeightExercises;
-	private JRadioButton bodyWeightAndEquipmentEx;
+	private JRadioButton abdominals;
+	private JRadioButton biceps;
+	private JRadioButton calves;
+	private JRadioButton chest;
+	private JRadioButton glutes;
+	private JRadioButton quadriceps;
 	private ButtonGroup bg;
 	
 	/**
@@ -21,19 +25,32 @@ public class PreferredExTypePanel extends JPanel
 		setLayout(new GridLayout(4, 1));
 		
 		// Create the radio buttons
-		bodyWeightExercises = new JRadioButton("Bodyweight exercises");
-		bodyWeightAndEquipmentEx = new JRadioButton("Bodyweight and exercise equipment exercises");
+		abdominals = new JRadioButton("Abdominals");
+		biceps = new JRadioButton("Biceps");
+		calves = new JRadioButton("Calves");
+		chest = new JRadioButton("Chest");
+		glutes = new JRadioButton("Glutes");
+		quadriceps = new JRadioButton("Quadriceps");
+		
 		
 		// Group the radio buttons
 		bg = new ButtonGroup();
-		bg.add(bodyWeightExercises);
-		bg.add(bodyWeightAndEquipmentEx);
+		bg.add(abdominals);
+		bg.add(biceps);
+		bg.add(calves);
+		bg.add(chest);
+		bg.add(glutes);
+		bg.add(quadriceps);
 		
 		// Add a border around the panel
-		setBorder(BorderFactory.createTitledBorder("What type of exercises would you prefer?"));
+		setBorder(BorderFactory.createTitledBorder("Which muscle group?"));
 		
 		// Add the radio buttons to the panel
-		add(bodyWeightExercises);
-		add(bodyWeightAndEquipmentEx);
+		add(abdominals);
+		add(biceps);
+		add(calves);
+		add(chest);
+		add(glutes);
+		add(quadriceps);
 	}
 }
