@@ -16,12 +16,12 @@ public class ResultsPage
 		// Create a JScrollPann and set the panel as its viewport
 		JScrollPane scrollPane = new JScrollPane(panel);
 		
-		//Add a large number of labels to the panel
-		for (int i = 1; i <= 50; i++)
-		{
-			JLabel label = new JLabel ("Label " + i);
-			panel.add(label);
-		}
+//		//Add a large number of labels to the panel
+//		for (int i = 1; i <= 50; i++)
+//		{
+//			JLabel label = new JLabel ("Label " + i);
+//			panel.add(label);
+//		}
 		
 		// Add the JScrollPane to the frame
 		frame.add(scrollPane);

@@ -34,6 +34,8 @@ public class ExerciseGoalsPanel extends JPanel
 		add(strength);
 		add(stretching);
 		
+		
+		
 	}
 	
 }
